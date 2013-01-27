@@ -1,0 +1,22 @@
+create table comment
+(
+	com_id int not null auto_increment primary key,
+	pro_name varchar(20),
+	stu_name varchar(20),
+	
+	acc int,
+	sten int,
+	intr int,
+	over int,
+	comm text
+);
+
+insert into comment
+(pro_name,stu_name,acc,sten,intr,over,comm)
+values
+("Jeff Erickson","Zhexi Liu",4,4,2,3,"Lalalalala....")；
+
+insert into comment
+(pro_name,stu_name,acc,sten,intr,over,comm)
+values
+("Jeff Erickson","User2",3,4,2,2,"Blah,Blah,Blah ")；

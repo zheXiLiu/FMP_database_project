@@ -1,0 +1,74 @@
+[02-Dec-2012 13:21:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/liu275/public_html/automata3/SqlHelper.class.php on line 15
+[02-Dec-2012 13:23:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'engr-cpanel1.engr.illinois.edu' (using password: YES) in /home/liu275/public_html/automata3/SqlHelper.class.php on line 15
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:29 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:30 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[02-Dec-2012 14:03:30 UTC] PHP Warning:  imagefontheight() expects parameter 1 to be long, string given in /home/liu275/public_html/automata3/jpgraph/gd_image.inc.php on line 272
+[03-Dec-2012 03:43:38 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 03:44:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 03:45:19 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 03:45:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 03:51:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 04:07:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 04:09:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'engr-cpanel1.engr.illinois.edu' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 04:10:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'engr-cpanel1.engr.illinois.edu' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 04:11:24 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'engr-cpanel1.engr.illinois.edu' (using password: YES) in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 15
+[03-Dec-2012 04:50:46 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 10
+[03-Dec-2012 05:08:05 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 10
+[03-Dec-2012 05:10:58 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 10
+[03-Dec-2012 05:11:42 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 11
+[03-Dec-2012 05:11:47 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 11
+[03-Dec-2012 05:12:29 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 11
+[03-Dec-2012 05:13:12 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 12
+[03-Dec-2012 05:13:43 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/shanzou2/public_html/automata3/recommend.php on line 12
+[03-Dec-2012 05:14:01 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 12
+[03-Dec-2012 05:14:49 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 12
+[03-Dec-2012 05:14:53 UTC] PHP Fatal error:  Cannot access empty property in /home/shanzou2/public_html/automata3/recommend.php on line 12
+[03-Dec-2012 05:22:09 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/shanzou2/public_html/automata3/recommend.php on line 12
+[03-Dec-2012 05:22:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/shanzou2/public_html/automata3/recommend.php on line 12
+[03-Dec-2012 05:44:41 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/shanzou2/public_html/automata3/recommend.php on line 40
+[03-Dec-2012 05:45:27 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/shanzou2/public_html/automata3/recommend.php on line 40
+[03-Dec-2012 05:45:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/shanzou2/public_html/automata3/recommend.php on line 41
+[03-Dec-2012 05:47:41 UTC] PHP Parse error:  syntax error, unexpected '"\n"' (T_CONSTANT_ENCAPSED_STRING) in /home/shanzou2/public_html/automata3/recommend.php on line 41
+[03-Dec-2012 06:19:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 42
+[03-Dec-2012 06:19:25 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 47
+[03-Dec-2012 06:19:25 UTC] PHP Fatal error:  Class 'ProService' not found in /home/shanzou2/public_html/automata3/recommend.php on line 83
+[03-Dec-2012 06:35:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 42
+[03-Dec-2012 06:35:16 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 47
+[03-Dec-2012 06:35:16 UTC] PHP Fatal error:  Call to undefined method SqlHelper::execute_dq12() in /home/shanzou2/public_html/automata3/recommend.php on line 84
+[03-Dec-2012 06:42:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 42
+[03-Dec-2012 06:42:08 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 47
+[03-Dec-2012 06:42:08 UTC] PHP Fatal error:  Class 'ProService' not found in /home/shanzou2/public_html/automata3/recommend.php on line 85
+[03-Dec-2012 06:43:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 42
+[03-Dec-2012 06:43:23 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 47
+[03-Dec-2012 06:43:23 UTC] PHP Fatal error:  Class 'ProService' not found in /home/shanzou2/public_html/automata3/recommend.php on line 83
+[03-Dec-2012 06:44:02 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 42
+[03-Dec-2012 06:44:02 UTC] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/shanzou2/public_html/automata3/SqlHelper.class.php on line 47
+[03-Dec-2012 06:59:58 UTC] PHP Fatal error:  Call to a member function count_dql() on a non-object in /home/shanzou2/public_html/automata3/recommend.php on line 80
+[03-Dec-2012 07:00:37 UTC] PHP Fatal error:  Call to a member function execute_dql() on a non-object in /home/shanzou2/public_html/automata3/recommend.php on line 80
+[03-Dec-2012 07:08:58 UTC] PHP Fatal error:  Call to a member function execute_dml() on a non-object in /home/shanzou2/public_html/automata3/recommend.php on line 80
+[03-Dec-2012 07:28:55 UTC] PHP Parse error:  syntax error, unexpected 'TOP' (T_STRING) in /home/shanzou2/public_html/automata3/recommend.php on line 72
+[03-Dec-2012 07:34:28 UTC] PHP Parse error:  syntax error, unexpected 'VIEW' (T_STRING) in /home/shanzou2/public_html/automata3/recommend.php on line 80
+[03-Dec-2012 07:47:59 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, array given in /home/shanzou2/public_html/automata3/recommend.php on line 77
+[03-Dec-2012 08:21:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/shanzou2/public_html/automata3/recommend.php on line 60
+[03-Dec-2012 08:24:55 UTC] PHP Parse error:  syntax error, unexpected 'Print_r' (T_STRING), expecting ',' or ';' in /home/shanzou2/public_html/automata3/recommend.php on line 79
+[03-Dec-2012 08:30:17 UTC] PHP Parse error:  syntax error, unexpected 'kw_com' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/shanzou2/public_html/automata3/recommend.php on line 83
+[03-Dec-2012 08:30:49 UTC] PHP Parse error:  syntax error, unexpected 'kw_com' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/shanzou2/public_html/automata3/recommend.php on line 83
+[03-Dec-2012 08:33:11 UTC] PHP Fatal error:  Class 'ProService' not found in /home/shanzou2/public_html/automata3/recommend.php on line 130
+[03-Dec-2012 08:36:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shanzou2/public_html/automata3/proOperate.php:30) in /home/shanzou2/public_html/automata3/proOperate.php on line 35
+[04-Dec-2012 21:43:40 UTC] PHP Warning:  min(): When only one parameter is given, it must be an array in /home/shanzou2/public_html/automata3/jpgraph/jpgraph_radar.php on line 421
+[04-Dec-2012 21:43:40 UTC] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/shanzou2/public_html/automata3/jpgraph/jpgraph_radar.php on line 425
+[04-Dec-2012 21:43:40 UTC] PHP Warning:  max(): When only one parameter is given, it must be an array in /home/shanzou2/public_html/automata3/jpgraph/jpgraph_radar.php on line 425
+[04-Dec-2012 21:43:40 UTC] PHP Warning:  min(): When only one parameter is given, it must be an array in /home/shanzou2/public_html/automata3/jpgraph/jpgraph_radar.php on line 421
